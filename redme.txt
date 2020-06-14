@@ -1,0 +1,7 @@
+Git guide
+  » Open the guide in your browser: jlord.github.io/git-it
+  » Traditional Chinese guide: jlord.github.io/git-it/index-zhtw.html
+
+  » To view guide offline, copy this address to your browser:
+  » C:\Users\mayank\AppData\Roaming\npm\node_modules\git-it\guide\index.html
+  » C:\Users\mayank\AppData\Roaming\npm\node_modules\git-it\guide\index-zhtw.html
